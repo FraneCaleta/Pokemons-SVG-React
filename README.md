@@ -1,6 +1,6 @@
 ## React application for playing with Tailwind, APIs and Scalable Vector Graphics (SVG)
 
-# Usage
+## Usage
 
 ### Install dependencies
 
